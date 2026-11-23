@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Ashutosh 👋
 
-<!--
-**peterparker9/peterparker9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security researcher focused on **mobile application security** — Android app assessments, API testing, and access-control vulnerabilities (IDOR/BOLA).
 
-Here are some ideas to get you started:
+I build reproducible testing setups (rooted emulator + HTTPS interception + Frida), map an app's attack surface, and verify findings with both static and dynamic evidence — responsibly, and in scope.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **What I do**
+- Android app security assessments (static + dynamic)
+- API / backend authorization testing (IDOR, broken access control)
+- Clear, reproducible vulnerability writeups
+
+🧰 **Tools:** jadx · Frida · mitmproxy · Burp Suite · apksigner · adb
+
+📝 **Writing:** [My security writeups on Medium]([MEDIUM_PROFILE_URL])
+🐞 **HackerOne:** [replyashu](https://hackerone.com/replyashu)
+📫 **Reach me:** [your professional email]
+
+---
+*Currently sharpening on access-control bugs and taking on freelance mobile security reviews.*
