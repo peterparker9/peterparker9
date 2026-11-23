@@ -11,9 +11,8 @@ I build reproducible testing setups (rooted emulator + HTTPS interception + Frid
 
 🧰 **Tools:** jadx · Frida · mitmproxy · Burp Suite · apksigner · adb
 
-📝 **Writing:** [My security writeups on Medium]([MEDIUM_PROFILE_URL])
+📝 **Writing:** [My security writeups on Medium](https://medium.com/@replyashu)
 🐞 **HackerOne:** [replyashu](https://hackerone.com/replyashu)
-📫 **Reach me:** [your professional email]
 
 ---
 *Currently sharpening on access-control bugs and taking on freelance mobile security reviews.*
